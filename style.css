@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    background-color: lightskyblue;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 45px;
+}
+.weather-temperature{
+    font-size: 40px;
+}
+.time-location{
+    font-size: 20px;
+}
+.search{
+    padding: 10px;
+    background-color: transparent;
+    outline: none;
+    font-size:15px;
+    width: 40vh;
+    border: none;
+    color:black;
+    /* margin-left:10px; */
+}
+nav form button{
+    padding: 10px;
+    color: black;
+    background-color: aliceblue;
+    margin-top: 1rem;
+    font-size:15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    
+
+    
+
+}
